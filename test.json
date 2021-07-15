@@ -1,5 +1,5 @@
 {
     "job_name": {"S": "jobval"},
     "build_id": {"S": "buildval"},
-    "starttime": {"S" "ST"}
+    "starttime": {"S" "STval"}
 }
