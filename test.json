@@ -1,4 +1,4 @@
 {
-    "job_name": {"S": "ci_infra_build"},
-    "1": {"S": "buildval"}
+    "job_name": {"S": "jobval"},
+    "build_id": {"S": "buildval"}
 }
